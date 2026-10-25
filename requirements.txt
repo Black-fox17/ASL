@@ -1,0 +1,17 @@
+# Core Deep Learning & Machine Learning
+tensorflow>=2.12.0
+numpy>=1.23.0
+scipy>=1.10.0
+scikit-image>=0.20.0
+
+# Computer Vision & Landmark Extraction
+mediapipe>=0.10.0
+opencv-python>=4.7.0
+
+# Data Processing & Storage
+pandas>=1.5.0
+pyarrow>=11.0.0
+
+# Visualization & Progress
+matplotlib>=3.6.0
+tqdm>=4.65.0
